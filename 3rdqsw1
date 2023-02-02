@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+		div {
+			border-style: solid;
+		}
+	</style>
+</head>
+<body>
+	<h1>Gilmore Girls</h1>
+	<h3>Synopsis</h3>
+	<div>A dramedy centering around the relationship between a thirtysomething single mother and her teen daughter living in Stars Hollow, Connecticut. Thirty-two year old single mom, Lorelai, lives with her teenage daughter Rory in the small town of Stars Hollow, Connecticut, with crazy neighbors and many ups and downs.</div>
+	<h3> Main Characters</h3>
+	<table class="container-fluid table striped table-bordered table-hover">
+		<tr>
+			<td class="table-primary">Lorelai Gilmore</td>
+			<td class="table-danger"><img src="https://openpsychometrics.org/tests/characters/test-resources/pics/GILG/1.jpg" height="500" width="500"></td>
+			<td class="table-warning">Bubbly, energetic, intelligent, driven. Lorelai worked her way up from maid at the aptly named Independence Inn, learning to be a parent at the same time. Not that she follows any instruction manuals – she raises Rory as only she could. That means coffee- and Chinese food-fueled movie marathons.</td>
+
+		<tr>
+			<td class="table-secondary">Rory Gilmore</td>
+			<td class="table-info"><img src="https://media1.popsugar-assets.com/files/thumbor/MOrKv0FI45WBHeJwwjf7erpT54I/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2016/03/21/902/n/37139775/6d3b2f15_edit_img_image_40645247_1458590450/i/Rory-Gilmore-GIFs.png" height="500" width="500"></td>
+			<td class="table-success">Quiet, brilliant, full of energy. She's learned a lot from her mother, an outgoing woman with a strong, sarcastic personality. Lorelai passed down not only her tenacity and drive, but also a love of old screwball comedies and snappy dialogue.</td>
+	</table>
+</body>
+</html>
